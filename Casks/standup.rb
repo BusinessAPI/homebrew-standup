@@ -1,6 +1,6 @@
 cask "standup" do
-  version "1.0"
-  sha256 "f9ddd5f4689a158d15670c4aa9404900d2d5462945c3c79a9458c249e2d998e6"
+  version "1.1"
+  sha256 "9d4b82b9cf55bb1ffbc4ae462346e8160632ba569f05bca43a8e0207506b0f07"
 
   url "https://github.com/businessapi/standup/releases/download/v#{version}/StandUp.zip"
   name "StandUp"
